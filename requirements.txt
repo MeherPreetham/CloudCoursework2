@@ -1,0 +1,6 @@
+azure-functions
+opencv-python
+numpy
+pillow
+gunicorn
+flask
